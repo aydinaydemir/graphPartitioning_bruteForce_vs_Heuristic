@@ -1,0 +1,104 @@
+
+
+Number of nodes: 8
+Number of tests: 28
+Brute Force TOTAL Time (seconds): 0.001001596450805664
+Heuristic TOTAL Time (seconds): 0.04394197463989258
+BruteTOTAL/HeuristicTOTAL (seconds): 0.02279361496641455
+Brute True Count: 25
+Heuristic True Count: 18
+Heuristic Algorithm Accuracy: 0.75
+***************
+
+
+
+
+Number of nodes: 10
+Number of tests: 45
+Brute Force TOTAL Time (seconds): 0.007931709289550781
+Heuristic TOTAL Time (seconds): 0.12802839279174805
+BruteTOTAL/HeuristicTOTAL (seconds): 0.061952736550028864
+Brute True Count: 37
+Heuristic True Count: 31
+Heuristic Algorithm Accuracy: 0.7111111111111111
+***************
+
+
+
+
+Number of nodes: 12
+Number of tests: 66
+Brute Force TOTAL Time (seconds): 0.04101085662841797
+Heuristic TOTAL Time (seconds): 0.2680075168609619
+BruteTOTAL/HeuristicTOTAL (seconds): 0.1530212924949182
+Brute True Count: 56
+Heuristic True Count: 47
+Heuristic Algorithm Accuracy: 0.6666666666666667
+***************
+
+
+
+
+Number of nodes: 14
+Number of tests: 91
+Brute Force TOTAL Time (seconds): 0.3251073360443115
+Heuristic TOTAL Time (seconds): 0.882882833480835
+BruteTOTAL/HeuristicTOTAL (seconds): 0.3682338400017931
+Brute True Count: 77
+Heuristic True Count: 63
+Heuristic Algorithm Accuracy: 0.6043956043956045
+***************
+
+
+
+
+Number of nodes: 16
+Number of tests: 120
+Brute Force TOTAL Time (seconds): 2.0289223194122314
+Heuristic TOTAL Time (seconds): 1.4281084537506104
+BruteTOTAL/HeuristicTOTAL (seconds): 1.4207060493786146
+Brute True Count: 98
+Heuristic True Count: 86
+Heuristic Algorithm Accuracy: 0.6
+***************
+
+
+
+
+Number of nodes: 18
+Number of tests: 153
+Brute Force TOTAL Time (seconds): 8.523242950439453
+Heuristic TOTAL Time (seconds): 2.7527222633361816
+BruteTOTAL/HeuristicTOTAL (seconds): 3.096296006306734
+Brute True Count: 126
+Heuristic True Count: 107
+Heuristic Algorithm Accuracy: 0.5620915032679739
+***************
+
+
+
+
+Number of nodes: 20
+Number of tests: 190
+Brute Force TOTAL Time (seconds): 57.91972351074219
+Heuristic TOTAL Time (seconds): 4.470715522766113
+BruteTOTAL/HeuristicTOTAL (seconds): 12.95535875986719
+Brute True Count: 153
+Heuristic True Count: 136
+Heuristic Algorithm Accuracy: 0.5578947368421052
+***************
+
+
+
+
+Number of nodes: 22
+Number of tests: 231
+Brute Force TOTAL Time (seconds): 352.6169226169586
+Heuristic TOTAL Time (seconds): 8.543088436126709
+BruteTOTAL/HeuristicTOTAL (seconds): 41.27511089851589
+Brute True Count: 188
+Heuristic True Count: 169
+Heuristic Algorithm Accuracy: 0.5541125541125541
+***************
+
+
